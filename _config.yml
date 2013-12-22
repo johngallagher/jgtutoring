@@ -1,2 +1,2 @@
-home: 'http://johngallagher.github.io/jgtutoring'
+baseurl: 'http://johngallagher.github.io/jgtutoring'
 port: 4000
