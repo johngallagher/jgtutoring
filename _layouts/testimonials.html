@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<p>{{ content }}</p>
+
+{% for testimonial in site.data.testimonials %}
+<blockquote>
+  <h2>{{ testimonial.title }}</h2>
+  {% for quote in testimonial.quote %}
+  <p>{{ quote.paragraph }}</p>
+  {% endfor %}
+  <footer>{{ testimonial.name }}</footer>
+</blockquote>
+{% endfor %}
+
