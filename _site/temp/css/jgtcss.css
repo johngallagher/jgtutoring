@@ -1,0 +1,202 @@
+p {
+  margin-bottom: 0.5em;
+	padding: 0;
+}
+h1 { 
+  font-size: 24px; 
+  line-height: 40px;
+  margin-top: 0px;
+  margin-bottom: 8px;
+	color: #444;
+}
+h2 {
+  font-family: 'Lucida Grande',Arial,sans-serif;
+  font-size: 110%;
+  line-height: 24px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+	color: #444;
+	font-weight:bold;
+}
+h3 { 
+  font-size: 16px; 
+  line-height: 24px; 
+}
+
+body {
+  background: #EEE url('../images/slices/MCPWebV1-1Home_03.png');
+	background-repeat: repeat-x;
+  font-family: 'Lucida Grande',Arial,sans-serif;
+  font-size: 80%;
+  line-height: 24px;
+	margin-top: 0px;
+	color: #222;
+}
+
+/* To display the logo in the centre in the header */
+ul#logo_inner{
+	height: 166px;
+	background: url('../images/slices/MCPWebV1-1Home_05.png') no-repeat top center;
+}
+
+div.box{
+	background: #EEE;
+	padding-top: 12px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	
+}
+
+#WhyChooseUs{
+	background: #DDD;
+	
+}
+
+#navigation {
+  background: #B00;
+  font: 24px Helvetica, serif; overflow: hidden;
+  min-width: 750px;
+}
+
+#navigation ul, #navigation ul li {
+  list-style: none;
+  margin: 0;
+}
+
+#navigation ul {
+	padding: 15px 0;
+	text-align: center;
+}
+
+#navigation ul li {
+	display: inline;
+	margin-left: -0.2em;
+	margin-right: -0.2em;
+}
+
+#navigation ul li.last {
+  margin-right: 0;
+}
+
+#navigation li a {
+	text-decoration:none;
+	color: #EEE;
+  padding: 15px 2em;
+}
+
+#navigation li a:hover {
+	text-decoration:none;
+	color: #EEE;
+	background:#900;
+  padding: 15px 2em;
+}
+
+
+#foot{
+	height:61px;
+  padding: 1em 0;
+  text-align: center;
+	background: url('../images/slices/Footer_03.png');
+	background-repeat: repeat-x;
+  font-size:11px;
+}
+
+.box #linkcontain a{
+	font-weight:bold;
+	background: url('../images/slices/Link_03.png') no-repeat center left;
+	padding:6px;
+	padding-left:34px;
+}
+
+.box #linkcontain a:hover{
+	background: url('../images/slices/Link_03_Selected.png') no-repeat center left;
+}
+
+a{
+	text-decoration:none;
+	color: #B00;
+}
+
+a:hover{
+	text-decoration:underline;
+	color: #B00;
+}
+
+div#hiddenimages{
+	display:none;
+}
+
+#linkcontain{
+	padding-top:0.3em;
+	padding-bottom:0.3em;
+	
+}
+
+#hugetext{
+	line-height:1em;
+	margin-top:15px;
+	font-size:28px;
+}
+
+#days{
+	font-weight:bold;
+}
+
+#closedtime{
+	font-weight:bold;
+	color:#B00;
+}
+
+#foot{
+	min-width: 750px;
+}
+
+#HighwayHawkProductLogo{
+	background: url('../images/slices/HighwayHawkLogo.png') no-repeat center center;
+	padding-top:0;
+	padding-bottom:0;
+	min-height:130px;
+}
+#BoxProductLogo{
+	background: url('../images/slices/BoxLogo.png') no-repeat center center;
+	padding-top:0.3em;
+	padding-bottom:0.3em;
+	min-height:94px;
+}
+#EBCProductLogo{
+	background: url('../images/slices/EBCLogo.png') no-repeat center center;
+	padding-top:0.3em;
+	padding-bottom:0.3em;
+	min-height:60px;
+}
+#HiFloProductLogo{
+	background: url('../images/slices/HiFloLogo.png') no-repeat center center;
+	padding-top:0.3em;
+	padding-bottom:0.3em;
+	min-height:43px;
+}
+#NGKProductLogo{
+	background: url('../images/slices/NGKLogo.png') no-repeat center center;
+	padding-top:0.3em;
+	padding-bottom:0.3em;
+	min-height:61px;
+}
+#PrexportProductLogo{
+	background: url('../images/slices/PrexportLogo.png') no-repeat center center;
+	padding-top:0.3em;
+	padding-bottom:0.3em;
+	min-height:46px;
+}
+#SilkoleneProductLogo{
+	background: url('../images/slices/SilkoleneLogo.png') no-repeat center center;
+	padding-top:0.3em;
+	padding-bottom:0.3em;
+	min-height:45px;
+}
+#WeiseProductLogo{
+	background: url('../images/slices/WeiseLogo.png') no-repeat center center;
+	padding-top:0.3em;
+	padding-bottom:0.3em;
+	min-height:60px;
+}
