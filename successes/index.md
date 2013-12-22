@@ -3,6 +3,8 @@ layout: testimonials
 published: true
 ---
 
-# Tests
+# Success Stories
 
 A few of the nice things clients have had to say about me...
+
+> I couldn't believe it!
